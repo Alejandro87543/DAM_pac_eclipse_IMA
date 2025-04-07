@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Ejercicio1_ARB {
     public static boolean auditoriaEmpresa(
             double salarioJefe,
