@@ -26,7 +26,7 @@ public class Ejercicio1_ARB {
             return false;
         }
         
-        System.out.println("Enhorabuena!! Ha pasado la auditoría, nos vemos el año que viene");
+        System.out.println("Ha pasado la auditoría");
         return true;
     }
 
